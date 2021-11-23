@@ -24,13 +24,17 @@ nav .brand-logo {
 }
 
 div.custom-title > h2 {
-  font-size: 30px;
+  font-size: 25px;
   color: #777;
   background-color: white;
   display: inline-block;
   z-index: 2;
   position: relative;
   padding-right: 10px;
+}
+
+div.custom-title > p {
+  font-size: 20px;
 }
 
 div.custom-title > div.line-style {
